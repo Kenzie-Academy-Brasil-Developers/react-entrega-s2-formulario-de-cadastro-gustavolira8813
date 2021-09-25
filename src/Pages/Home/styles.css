@@ -1,6 +1,15 @@
-h3 {
+.home_title {
   color: rgba(24, 24, 211, 0.911);
+  position: relative;
+  top: 25vh;
 }
 img {
   border-radius: 15px;
+}
+.home {
+  background-image: url("https://ak.picdn.net/shutterstock/videos/5117402/thumb/1.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
 }
