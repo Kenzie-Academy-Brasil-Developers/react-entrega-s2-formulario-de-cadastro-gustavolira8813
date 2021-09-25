@@ -1,0 +1,14 @@
+.title {
+  z-index: 2;
+  position: relative;
+  top: 25vh;
+}
+.welcomeImg {
+}
+.welcome {
+  background-image: url("https://f4.bcbits.com/img/a0440590831_16.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
